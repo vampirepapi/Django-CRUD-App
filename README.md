@@ -1,10 +1,9 @@
-# SIMPLE CRUD API WITH DJANGO REST FRAMEWORK
-[Django REST framework](http://www.django-rest-framework.org/) is a powerful and flexible toolkit for building Web APIs.
+# SIMPLE CRUD APP MADE WITH DJANGO FRAMEWORK
+
 
 ## Requirements
 - Python 3.6
 - Django 3.1
-- Django REST Framework
 
 ## Installation
 After you cloned the repository, you want to create a virtual environment, so you have a clean python installation.
